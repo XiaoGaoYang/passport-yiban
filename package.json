@@ -1,7 +1,13 @@
 {
   "name": "passport-yiban",
   "version": "0.1.0",
-  "description": "",
+  "description": "YiBan authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "yiban",
+    "auth",
+    "authentication"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -15,12 +21,13 @@
     "single sign on",
     "registration"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "XiaoGaoYang",
     "email": "vslangwang@gmail.com"
+  },
+  "dependencies": {
+    "pkginfo": "^0.4.0",
+    "passport-oauth2": "^1.3.0"
   },
   "license": "ISC"
 }
