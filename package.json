@@ -1,0 +1,26 @@
+{
+  "name": "passport-yiban",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XiaoGaoYang/passport-yiban"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "yiban",
+    "sso",
+    "single sign on",
+    "registration"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "XiaoGaoYang",
+    "email": "vslangwang@gmail.com"
+  },
+  "license": "ISC"
+}
